@@ -85,3 +85,9 @@ section.pricing {
     opacity: 1;
   }
 }
+
+.page-footer {
+    height: 200px;
+    background-color: black;
+    color: white;
+    }
