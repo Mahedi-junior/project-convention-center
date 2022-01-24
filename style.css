@@ -2,3 +2,16 @@
     color: black;
     margin-left: 40px;
 }
+.banner-name{
+    color: rgb(246, 244, 248);
+}
+.button{
+    background-color: rgb(252, 249, 251);
+    padding: 7px 30px;
+    border-radius: 5px;
+}
+.button a{
+    font-weight: 700;
+    color: rgb(32, 46, 241);
+    text-decoration: none;
+}
