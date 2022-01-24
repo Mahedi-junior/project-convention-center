@@ -16,6 +16,10 @@
     text-decoration: none;
 }
 
+.btn a{
+    text-decoration: none;
+}
+
 
 
 section.pricing {
@@ -83,4 +87,9 @@ section.pricing {
 }
 
 
-/* faq */
+/* fotter */
+footer{
+    height: 200px;
+    color: whitesmoke;
+    background-color: rgb(43, 34, 71);
+}
